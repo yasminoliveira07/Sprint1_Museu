@@ -12,7 +12,6 @@ Guilherme Gonçalves Silva santos
 Giovanna Freitas Bezerra
 <br>
 Natália Campiolio Russso  
-<br>
 Paola Ribeiro  Gomes
 <br>
 Yasmin Boaventura de Olivera 
