@@ -1,5 +1,5 @@
 # Sprint1_Museu
-Repositório direcionado ao projeto de controle de umidade e temperatura da Sprint 1.
+Repositório direcionado ao projeto de controle de umidade e temperatura dos museus .
 
 Equipe:
 <br>
