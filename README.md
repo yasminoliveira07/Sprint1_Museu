@@ -6,10 +6,15 @@ Equipe:
 Erica Rodrigues de Cunha 
 <br>
 Jonathan Alborghetti Almeida
+<br>
 Guilherme Gonçalves Silva santos
+<br>
 Giovanna Freitas Bezerra
+<br>
 Natália Campiolio Russso  
+<br>
 Paola Ribeiro  Gomes
+<br>
 Yasmin Boaventura de Olivera 
 
 
