@@ -4,6 +4,7 @@ Repositório direcionado ao projeto de controle de umidade e temperatura da Spri
 Equipe:
 <br>
 Erica Rodrigues de Cunha 
+<br>
 Jonathan Alborghetti Almeida
 Guilherme Gonçalves Silva santos
 Giovanna Freitas Bezerra
